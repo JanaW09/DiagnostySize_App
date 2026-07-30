@@ -1,6 +1,6 @@
 # DiagnostySize Shiny app for optimal sample size calculation for diagnostic accuracy studies
 
-The optimal sample size approach ensures that no endpoint (sensitivity or specificity) is overpowered. This approach was until now just available via R-scripts. This apps allows the use of the optimal sample size and power calculation with an user interface. In the shiny App you find additionally help buttons, error messages, further information and the link to the paper from Stark & Zapf, 2020 and Stark et al., 2022, who developed this approach.
+The optimal sample size approach ensures that no endpoint (sensitivity or specificity) is overpowered. This approach was until now just available via R-scripts. This apps allows the use of the optimal sample size and power calculation with an user interface. In the shiny App you find additionally help buttons, error messages, further information and the link to the paper from Stark & Zapf, 2020 and Stark et al., 2022, who developed the statistical methods.
 
 # Installation:
 
